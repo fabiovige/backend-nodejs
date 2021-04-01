@@ -2,7 +2,11 @@
 
 Estrutura das requisições HTTP e conceitos da utilização de middleware
 
-## Comando para executar
+## Rodar o projeto
+
+http://localhost:3333/projects
+
+```bash
 yarn install
 yarn dev
-
+```
